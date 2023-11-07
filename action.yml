@@ -1,4 +1,4 @@
-name: Code Coverage Report
+name: Lcov Code Coverage Test Reporter
 description: Comments a pull request with the code coverage
 author: Romeo Van Snick
 branding:
